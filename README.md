@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is the project from the Foundations Course of TOP. Its purpose is to put to test the knowledge in HTML acquired in the previous lessons and apply the to get some practice in the matter. As the title may suggest, it will consist on a main index page which will have multple links to different recipe pages, which suggests the use of links, lists ordered and unordered as well as the implementation of images.
